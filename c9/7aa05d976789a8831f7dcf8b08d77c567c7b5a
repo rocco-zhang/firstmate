@@ -1,0 +1,41 @@
+bin/fm-downstream.sh
+  s_6b95a98eca6638::t_f5a74fbbac6621 1-133
+bin/fm-brief.sh
+  s_6b95a98eca6638::t_2a4ce280d0cd98 9,11-16
+  s_6b95a98eca6638::t_7a33d1eec69105 48,54
+  s_6b95a98eca6638::t_696182be10c50e 241-250
+  s_6b95a98eca6638::t_8cacc16d4e1ec6 178-185,188
+bin/fm-tangle-lib.sh
+  s_6b95a98eca6638::t_e12eb494b926f8 38-66
+bin/fm-pr-check.sh
+  s_6b95a98eca6638::t_254cce1fd2f9c1 13-14,20-23
+bin/fm-pr-merge.sh
+  s_6b95a98eca6638::t_47f543d066941e 41-47
+tests/fm-downstream.test.sh
+  s_6b95a98eca6638::t_b860f60794d586 69
+  s_6b95a98eca6638::t_ad7012c17fcbc9 1-68,70-226
+AGENTS.md
+  s_6b95a98eca6638::t_6b55700968b177 55
+  s_6b95a98eca6638::t_3410c3afd6197b 851-860
+bin/fm-project-mode.sh
+  s_6b95a98eca6638::t_76f0fa16c1b97e 21-27,35-47
+bin/fm-spawn.sh
+  s_6b95a98eca6638::t_0dd5800d8e2e29 95-96
+  s_6b95a98eca6638::t_38d4ced076dcd2 951-959
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c97aa05d976789a8831f7dcf8b08d77c567c7b5a",
+  "prompts": {},
+  "sessions": {
+    "s_6b95a98eca6638": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77282e01-9838-4baa-9c13-41410b250953",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    }
+  }
+}
