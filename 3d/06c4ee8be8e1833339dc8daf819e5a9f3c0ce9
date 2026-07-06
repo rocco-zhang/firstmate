@@ -1,0 +1,55 @@
+tests/fm-spawn-reuse-worktree.test.sh
+  s_5baa54ec5ca058::t_b496762cd322cd 26-31
+  s_5baa54ec5ca058::t_a6f545b7132ac1 1-25,32-188
+tests/fm-ctx-hook.test.sh
+  s_5baa54ec5ca058::t_d0bab8a808597e 1-16,18-86
+  s_5baa54ec5ca058::t_60834364a5a9e4 17
+bin/fm-ctx-hook.sh
+  s_5baa54ec5ca058::t_602c0034507c9d 1-44,48
+  s_5baa54ec5ca058::t_44ac490464bfbd 45-47
+.agents/skills/context-handoff/SKILL.md
+  s_5baa54ec5ca058::t_602c0034507c9d 1-61
+bin/fm-context.sh
+  s_5baa54ec5ca058::t_602c0034507c9d 1-72
+bin/fm-spawn.sh
+  s_5baa54ec5ca058::t_eedb5578e98999 882
+  s_5baa54ec5ca058::t_f4ebc2520ceb5f 927-935
+  s_5baa54ec5ca058::t_67f4394765cd80 799
+  s_5baa54ec5ca058::t_99c22b1a5e3f65 107
+  s_5baa54ec5ca058::t_bc59335ead3a8c 688-699,703-705
+  s_5baa54ec5ca058::t_1aaf08a127fc1e 701-702
+  s_5baa54ec5ca058::t_893f3d678b8cd2 1091-1097
+  s_5baa54ec5ca058::t_f9d6e73968c618 1028-1040
+  s_5baa54ec5ca058::t_89a690c459f99b 811
+  s_5baa54ec5ca058::t_3749407bc89447 743-753,758
+  s_5baa54ec5ca058::t_ea9c599f9ba224 700
+  s_5baa54ec5ca058::t_c16dd38b65478f 150-207
+  s_5baa54ec5ca058::t_4cca807040e4a5 128
+  s_5baa54ec5ca058::t_622811905c1f03 346-350
+  s_5baa54ec5ca058::t_f2beb7264e1c8d 787
+tests/fm-context.test.sh
+  s_5baa54ec5ca058::t_d5c55f97c595bb 1-85
+AGENTS.md
+  s_5baa54ec5ca058::t_570ff64548c6f9 856
+  s_5baa54ec5ca058::t_1d45fa6b7ba757 95
+  s_5baa54ec5ca058::t_b9c3ee0b3a9626 682
+bin/fm-teardown.sh
+  s_5baa54ec5ca058::t_f85ebfdbf5a77c 657
+  s_5baa54ec5ca058::t_477e2e9445909c 812
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3d06c4ee8be8e1833339dc8daf819e5a9f3c0ce9",
+  "prompts": {},
+  "sessions": {
+    "s_5baa54ec5ca058": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeeb54df-f94f-49a0-b772-ed87dc1b38d6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    }
+  }
+}
