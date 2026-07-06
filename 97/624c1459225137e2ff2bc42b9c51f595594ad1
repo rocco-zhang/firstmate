@@ -1,0 +1,30 @@
+bin/fm-spawn.sh
+  s_5baa54ec5ca058::t_4d6de3dd883934 167-169
+  s_5baa54ec5ca058::t_7c3f8403bbd23d 763-772
+  s_5baa54ec5ca058::t_7cf6054e03c866 193-198
+.agents/skills/context-handoff/SKILL.md
+  s_5baa54ec5ca058::t_5fa69a81c65c92 3
+  s_5baa54ec5ca058::t_ac8fe7304c15aa 11-13
+  s_5baa54ec5ca058::t_25d11cbaa57557 47,51-52,54
+  s_5baa54ec5ca058::t_9f3b81fcffa9ed 24
+tests/fm-spawn-reuse-worktree.test.sh
+  s_5baa54ec5ca058::t_273f9008f7c6a8 162-168,172
+  s_5baa54ec5ca058::t_78446247225c6f 73
+  s_5baa54ec5ca058::t_0d9bc02a6433e8 169-171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "97624c1459225137e2ff2bc42b9c51f595594ad1",
+  "prompts": {},
+  "sessions": {
+    "s_5baa54ec5ca058": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "eeeb54df-f94f-49a0-b772-ed87dc1b38d6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    }
+  }
+}
