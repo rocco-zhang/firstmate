@@ -1,0 +1,21 @@
+bin/fm-ctx-hook.sh
+  s_57de57ef4e80e1::t_e179b9dbfa3e52 1-48
+bin/fm-context.sh
+  s_57de57ef4e80e1::t_e179b9dbfa3e52 1-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "fb12dda8bf55774b6ac52e71ae2b6a69f36ac60a",
+  "prompts": {},
+  "sessions": {
+    "s_57de57ef4e80e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a69bffc9-d335-4a7e-b539-c9301c0cace7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    }
+  }
+}
