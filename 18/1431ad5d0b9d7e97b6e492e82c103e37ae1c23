@@ -1,0 +1,23 @@
+tests/fm-ctx-hook.test.sh
+  s_57de57ef4e80e1::t_c402cc5dc0a106 1-86
+tests/fm-spawn-reuse-worktree.test.sh
+  s_57de57ef4e80e1::t_c402cc5dc0a106 1-200
+tests/fm-context.test.sh
+  s_57de57ef4e80e1::t_c402cc5dc0a106 1-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "181431ad5d0b9d7e97b6e492e82c103e37ae1c23",
+  "prompts": {},
+  "sessions": {
+    "s_57de57ef4e80e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a69bffc9-d335-4a7e-b539-c9301c0cace7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    }
+  }
+}
