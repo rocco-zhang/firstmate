@@ -1,0 +1,19 @@
+bin/fm-spawn.sh
+  s_dc7343a40190d3::t_d10d36a9c483cc 677-683,687-699
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "af0c0b1125b4179f484e4e7304f79a69669ad47e",
+  "prompts": {},
+  "sessions": {
+    "s_dc7343a40190d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ed6de7e8-362f-4290-8546-3fc2b1cd1414",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    }
+  }
+}
