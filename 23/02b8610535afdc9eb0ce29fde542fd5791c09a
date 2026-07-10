@@ -1,0 +1,43 @@
+bin/fm-spawn.sh
+  s_57de57ef4e80e1::t_8a13e494012e8b 148
+  s_57de57ef4e80e1::t_f577167159b668 719-736
+  s_57de57ef4e80e1::t_a3578272e2c369 377-381
+  s_57de57ef4e80e1::t_b720ba22e83a06 56-63
+  s_57de57ef4e80e1::t_149c30c48d4fdf 792-813
+  s_57de57ef4e80e1::t_7fc4859d386ac8 955
+  s_57de57ef4e80e1::t_1c30e9c0aebc99 1171-1176
+  s_57de57ef4e80e1::t_e6f9d6aff430ef 170-238
+  s_57de57ef4e80e1::t_355a7c788d0ade 1007-1015
+  s_57de57ef4e80e1::t_0ffbd2ee27c5a4 95
+  s_57de57ef4e80e1::t_4235af2c608b67 824,854,866,878
+  s_57de57ef4e80e1::t_0ecc101f8246b8 1108-1120
+  s_57de57ef4e80e1::t_9076be1df4b2f2 127
+  s_b1b87105b5e06f::t_a7086d0547b5d8 1177
+bin/fm-teardown.sh
+  s_57de57ef4e80e1::t_5f17f66b2f6077 980
+  s_57de57ef4e80e1::t_98db3bca0cd9d8 1101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "2302b8610535afdc9eb0ce29fde542fd5791c09a",
+  "prompts": {},
+  "sessions": {
+    "s_57de57ef4e80e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a69bffc9-d335-4a7e-b539-c9301c0cace7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    },
+    "s_b1b87105b5e06f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34434ffe-5fbb-4589-af79-6d04a0f3b98e",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    }
+  }
+}
