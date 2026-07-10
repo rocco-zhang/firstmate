@@ -1,0 +1,23 @@
+.agents/skills/context-handoff/SKILL.md
+  s_57de57ef4e80e1::t_e179b9dbfa3e52 1-61
+AGENTS.md
+  s_57de57ef4e80e1::t_38d45d6862c934 96
+  s_57de57ef4e80e1::t_0648af9b37ea7c 911
+  s_57de57ef4e80e1::t_e911c3cf80f460 728
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "f890fa577910c3b8a6f4d1d6bf4cb0f8ad082d93",
+  "prompts": {},
+  "sessions": {
+    "s_57de57ef4e80e1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a69bffc9-d335-4a7e-b539-c9301c0cace7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rocco Zhang <roccozxyt@gmail.com>"
+    }
+  }
+}
